@@ -1,6 +1,6 @@
 # Example-based colour transfer for 3D point clouds
 
-Unity project of [Example-based colour transfer for 3D point clouds](https://people.irisa.fr/Ific.Goude/).
+Unity project of [Example-based colour transfer for 3D point clouds](https://igoude.github.io/).
 
 > "Example-Based Colour Transfer for 3D Point Clouds; I. Goudé, R. Cozot, O. Le Meur, K. Bouatouch; Computer Graphics Forum (2021); https://doi.org/10.1111/cgf.14388"
 
@@ -36,11 +36,7 @@ Another example, from left to right: input point cloud, target style point cloud
 
 ## Contact
 
-> PERCEPT Team - IRISA Rennes <br />
-Email: percept@irisa.fr
-
 > Ific Goudé <br />
-PhD student <br />
-Team Percept - IRISA <br />
-Email: ific.goude@irisa.fr <br />
-Website: [https://people.irisa.fr/Ific.Goude/](https://people.irisa.fr/Ific.Goude/)
+Research Scientist in Computer Graphics <br />
+Email: goude.ific@gmail.com <br />
+Website: [https://igoude.github.io/](https://igoude.github.io/)
